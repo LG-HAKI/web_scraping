@@ -1,0 +1,422 @@
+[
+    {
+        "nome": "One Piece",
+        "critica_score": "83%",
+        "audiencia_score": "95%"
+    },
+    {
+        "nome": "Star Wars: Ahsoka",
+        "critica_score": "87%",
+        "audiencia_score": "73%"
+    },
+    {
+        "nome": "Who Is Erin Carter?",
+        "critica_score": "63%",
+        "audiencia_score": "56%"
+    },
+    {
+        "nome": "The Wheel of Time",
+        "critica_score": "80%",
+        "audiencia_score": "75%"
+    },
+    {
+        "nome": "Foundation",
+        "critica_score": "86%",
+        "audiencia_score": "70%"
+    },
+    {
+        "nome": "Red Oaks",
+        "critica_score": "93%",
+        "audiencia_score": "93%"
+    },
+    {
+        "nome": "Harlan Coben's Shelter",
+        "critica_score": "86%",
+        "audiencia_score": "72%"
+    },
+    {
+        "nome": "Painkiller",
+        "critica_score": "48%",
+        "audiencia_score": "61%"
+    },
+    {
+        "nome": "Invasion",
+        "critica_score": "53%",
+        "audiencia_score": "57%"
+    },
+    {
+        "nome": "Only Murders in the Building",
+        "critica_score": "99%",
+        "audiencia_score": "91%"
+    },
+    {
+        "nome": "The Bear",
+        "critica_score": "99%",
+        "audiencia_score": "92%"
+    },
+    {
+        "nome": "The Chosen One",
+        "critica_score": "83%",
+        "audiencia_score": "74%"
+    },
+    {
+        "nome": "The Winter King",
+        "critica_score": "80%",
+        "audiencia_score": "41%"
+    },
+    {
+        "nome": "Adventure Time: Fionna and Cake",
+        "critica_score": "100%",
+        "audiencia_score": "98%"
+    },
+    {
+        "nome": "The Expecting",
+        "critica_score": "N/A",
+        "audiencia_score": "N/A"
+    },
+    {
+        "nome": "Dark Winds",
+        "critica_score": "100%",
+        "audiencia_score": "87%"
+    },
+    {
+        "nome": "The Lost Flowers of Alice Hart",
+        "critica_score": "82%",
+        "audiencia_score": "93%"
+    },
+    {
+        "nome": "The Tower",
+        "critica_score": "100%",
+        "audiencia_score": "80%"
+    },
+    {
+        "nome": "Ragnarok",
+        "critica_score": "N/A",
+        "audiencia_score": "63%"
+    },
+    {
+        "nome": "Special Ops: Lioness",
+        "critica_score": "53%",
+        "audiencia_score": "79%"
+    },
+    {
+        "nome": "Heart of Invictus",
+        "critica_score": "80%",
+        "audiencia_score": "77%"
+    },
+    {
+        "nome": "The Changeling",
+        "critica_score": "86%",
+        "audiencia_score": "N/A"
+    },
+    {
+        "nome": "Archer",
+        "critica_score": "91%",
+        "audiencia_score": "87%"
+    },
+    {
+        "nome": "Telemarketers",
+        "critica_score": "96%",
+        "audiencia_score": "91%"
+    },
+    {
+        "nome": "Reservation Dogs",
+        "critica_score": "99%",
+        "audiencia_score": "88%"
+    },
+    {
+        "nome": "Hijack",
+        "critica_score": "88%",
+        "audiencia_score": "64%"
+    },
+    {
+        "nome": "The Idol",
+        "critica_score": "19%",
+        "audiencia_score": "41%"
+    },
+    {
+        "nome": "One Piece",
+        "critica_score": "N/A",
+        "audiencia_score": "90%"
+    },
+    {
+        "nome": "The Crowded Room",
+        "critica_score": "33%",
+        "audiencia_score": "92%"
+    },
+    {
+        "nome": "Mask Girl",
+        "critica_score": "N/A",
+        "audiencia_score": "84%"
+    },
+    {
+        "nome": "Spellbound",
+        "critica_score": "N/A",
+        "audiencia_score": "60%"
+    },
+    {
+        "nome": "Silo",
+        "critica_score": "88%",
+        "audiencia_score": "89%"
+    },
+    {
+        "nome": "Justified: City Primeval",
+        "critica_score": "90%",
+        "audiencia_score": "50%"
+    },
+    {
+        "nome": "Heartstopper",
+        "critica_score": "98%",
+        "audiencia_score": "96%"
+    },
+    {
+        "nome": "Good Omens",
+        "critica_score": "85%",
+        "audiencia_score": "95%"
+    },
+    {
+        "nome": "Twisted Metal",
+        "critica_score": "68%",
+        "audiencia_score": "94%"
+    },
+    {
+        "nome": "The Witcher",
+        "critica_score": "80%",
+        "audiencia_score": "54%"
+    },
+    {
+        "nome": "Strange Planet",
+        "critica_score": "81%",
+        "audiencia_score": "83%"
+    },
+    {
+        "nome": "Secret Invasion",
+        "critica_score": "54%",
+        "audiencia_score": "49%"
+    },
+    {
+        "nome": "Disenchantment",
+        "critica_score": "65%",
+        "audiencia_score": "79%"
+    },
+    {
+        "nome": "I Am Groot",
+        "critica_score": "88%",
+        "audiencia_score": "75%"
+    },
+    {
+        "nome": "Winning Time: The Rise of the Lakers Dynasty",
+        "critica_score": "86%",
+        "audiencia_score": "86%"
+    },
+    {
+        "nome": "Power Book IV: Force",
+        "critica_score": "100%",
+        "audiencia_score": "86%"
+    },
+    {
+        "nome": "Billions",
+        "critica_score": "86%",
+        "audiencia_score": "69%"
+    },
+    {
+        "nome": "The Pact",
+        "critica_score": "92%",
+        "audiencia_score": "25%"
+    },
+    {
+        "nome": "Solar Opposites",
+        "critica_score": "98%",
+        "audiencia_score": "81%"
+    },
+    {
+        "nome": "Depp v Heard",
+        "critica_score": "27%",
+        "audiencia_score": "10%"
+    },
+    {
+        "nome": "Fisk",
+        "critica_score": "N/A",
+        "audiencia_score": "97%"
+    },
+    {
+        "nome": "Warrior",
+        "critica_score": "93%",
+        "audiencia_score": "96%"
+    },
+    {
+        "nome": "Drops of God",
+        "critica_score": "100%",
+        "audiencia_score": "93%"
+    },
+    {
+        "nome": "From",
+        "critica_score": "94%",
+        "audiencia_score": "84%"
+    },
+    {
+        "nome": "Beef",
+        "critica_score": "98%",
+        "audiencia_score": "86%"
+    },
+    {
+        "nome": "Full Circle",
+        "critica_score": "79%",
+        "audiencia_score": "55%"
+    },
+    {
+        "nome": "Moving",
+        "critica_score": "N/A",
+        "audiencia_score": "98%"
+    },
+    {
+        "nome": "The Afterparty",
+        "critica_score": "92%",
+        "audiencia_score": "73%"
+    },
+    {
+        "nome": "The Sex Lives of College Girls",
+        "critica_score": "95%",
+        "audiencia_score": "86%"
+    },
+    {
+        "nome": "The Mandalorian",
+        "critica_score": "90%",
+        "audiencia_score": "78%"
+    },
+    {
+        "nome": "The Conversations Project",
+        "critica_score": "N/A",
+        "audiencia_score": "N/A"
+    },
+    {
+        "nome": "Happy Valley",
+        "critica_score": "98%",
+        "audiencia_score": "94%"
+    },
+    {
+        "nome": "My Adventures with Superman",
+        "critica_score": "100%",
+        "audiencia_score": "82%"
+    },
+    {
+        "nome": "Physical",
+        "critica_score": "83%",
+        "audiencia_score": "81%"
+    },
+    {
+        "nome": "Jury Duty",
+        "critica_score": "81%",
+        "audiencia_score": "96%"
+    },
+    {
+        "nome": "All the Queen's Men",
+        "critica_score": "N/A",
+        "audiencia_score": "81%"
+    },
+    {
+        "nome": "A Small Light",
+        "critica_score": "100%",
+        "audiencia_score": "94%"
+    },
+    {
+        "nome": "Gen V",
+        "critica_score": "N/A",
+        "audiencia_score": "N/A"
+    },
+    {
+        "nome": "Killing It",
+        "critica_score": "94%",
+        "audiencia_score": "79%"
+    },
+    {
+        "nome": "Deadloch",
+        "critica_score": "100%",
+        "audiencia_score": "89%"
+    },
+    {
+        "nome": "Naked and Afraid: Uncensored",
+        "critica_score": "N/A",
+        "audiencia_score": "N/A"
+    },
+    {
+        "nome": "Andor",
+        "critica_score": "96%",
+        "audiencia_score": "86%"
+    },
+    {
+        "nome": "The Summer I Turned Pretty",
+        "critica_score": "75%",
+        "audiencia_score": "69%"
+    },
+    {
+        "nome": "Miracle Workers",
+        "critica_score": "84%",
+        "audiencia_score": "81%"
+    },
+    {
+        "nome": "American Horror Story",
+        "critica_score": "77%",
+        "audiencia_score": "67%"
+    },
+    {
+        "nome": "Black Bird",
+        "critica_score": "98%",
+        "audiencia_score": "95%"
+    },
+    {
+        "nome": "Live to 100: Secrets of the Blue Zones",
+        "critica_score": "N/A",
+        "audiencia_score": "57%"
+    },
+    {
+        "nome": "The Lincoln Lawyer",
+        "critica_score": "85%",
+        "audiencia_score": "83%"
+    },
+    {
+        "nome": "Black Mirror",
+        "critica_score": "83%",
+        "audiencia_score": "80%"
+    },
+    {
+        "nome": "King the Land",
+        "critica_score": "N/A",
+        "audiencia_score": "22%"
+    },
+    {
+        "nome": "Cowboy Bebop",
+        "critica_score": "46%",
+        "audiencia_score": "60%"
+    },
+    {
+        "nome": "Black Snow",
+        "critica_score": "N/A",
+        "audiencia_score": "86%"
+    },
+    {
+        "nome": "Severance",
+        "critica_score": "97%",
+        "audiencia_score": "86%"
+    },
+    {
+        "nome": "Futurama",
+        "critica_score": "N/A",
+        "audiencia_score": "94%"
+    },
+    {
+        "nome": "Queen Cleopatra",
+        "critica_score": "18%",
+        "audiencia_score": "3%"
+    },
+    {
+        "nome": "And Just Like That...",
+        "critica_score": "56%",
+        "audiencia_score": "33%"
+    },
+    {
+        "nome": "Ghost Adventures",
+        "critica_score": "N/A",
+        "audiencia_score": "N/A"
+    }
+]
