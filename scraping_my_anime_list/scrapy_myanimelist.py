@@ -6,7 +6,7 @@ def raspar_gravar(url, writer):
   #indica a página que está sendo raspada.
   pagina = (int(url.split('=')[1]) // 50) + 1
 
-  print(f"Raspando pagina -> {(int(url.split('=')[1]) // 50) + 1}")
+  print(f"Raspando pagina -> {pagina}")
   response = req.get(url)
 
   dados = []
@@ -20,7 +20,7 @@ def raspar_gravar(url, writer):
     for anime in animes:
 
       rank = anime.find("td", class_="rank ac").find("span").text
-      nome = anime.find("td", class_="title al va-t word-break").find("h3", class_="hoverinfo_trigger fl-l fs14 fw-b anime_ranking_h3").text
+      nome = anime.find("td", class_="title al va-t word-break").find("h3", class_="fl-l fs14 fw-b anime_ranking_h3").text
       score = anime.find("td", class_="score ac fs14").find("div", class_="js-top-ranking-score-col di-ib al").text
 
       dados.append([rank, nome, score])
